@@ -1,2 +1,4 @@
+*.vscode/
 .idea/
 01-load/node_modules/
+01-bar-chart/node_modules/
