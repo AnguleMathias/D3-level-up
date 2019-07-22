@@ -1,4 +1,6 @@
 *.vscode/
+.DS_Store
 .idea/
 01-load/node_modules/
 01-bar-chart/node_modules/
+02-scatter-plot/node_modules/
